@@ -2,7 +2,7 @@ def square_array(array)
   arr =[]
   array.each { |i| arr << i ** 2}
   arr
-  puts new_arr
+  puts arr
 end
 
 array = [1,2,4]
